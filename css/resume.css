@@ -264,7 +264,7 @@ p {
 .projects .card {
     border: 1px solid var(--gray);
 
-    height: 520px;
+    height: 505px;
     max-width: 390px;
     padding: 20px;
     margin: 15px auto;
