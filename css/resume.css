@@ -226,9 +226,9 @@ p {
     max-width: 900px;
     font-weight: 400;
     font-size: var(--font-40);
-    line-height: 150%;
+    line-height: 100%;
 
-    margin-bottom: 180px;
+    margin-bottom: 30px;
 }
 
 .about .achievements {
